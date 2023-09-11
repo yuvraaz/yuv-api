@@ -6,11 +6,6 @@
   "users/refresh-token": {
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIwNmIyYjQ0Yy02NmQ0LTQ1MDYtOGE2My1lY2RjMDMyYzY3NWUiLCJyZWFsbUlkIjoyLCJvcmdJZHMiOlsyXSwiaXNTdXBlckFkbWluIjpmYWxzZSwiZXhwaXJlcyI6MTY5MzMzODU4MDk2OSwiaXNUUFRva2VuIjpmYWxzZSwiaWF0IjoxNjkzMzM2NzgwfQ.fM273KUxtc6BOVzwrtG1lL-5TYc-LtA2CU8EFRlb86w"
   },
-
-  "/users/user/1e95b913-becf-4005-bb9a-a5a044b07331": {
-    "id":"343434",
-    "name": "hari man"
-  }, 
   "users":[
     {"id":"3w43", "name":"youbaraj"},
     {"id":"3w4323233", "name":"youbaraj2"},
